@@ -20,4 +20,4 @@ Frontend: HTML, CSS, JavaScript
 
 Backend: SQL
 
-Data Analytics: Excel, Power BI
+Data Analytics: Excel, Power BI 
