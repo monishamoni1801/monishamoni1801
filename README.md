@@ -66,3 +66,110 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=monishamoni1801&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishamoni1801&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=monishamoni1801&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=monishamoni1801&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+
+## 🚀 Featured Projects
+
+### 📊 Customer Churn Prediction using PySpark
+End-to-end churn prediction pipeline with preprocessing, feature engineering, ML models, and evaluation.
+
+### 📈 HR Analytics Dashboard
+Interactive Power BI dashboard for employee attrition and workforce insights.
+
+### 🤖 Agile Compliance Assessment Tool
+Web application to assess Agile maturity through automated self-evaluation.
+
+### 🩺 DiabetesGuard
+Machine learning-based diabetes prediction with user health tracking.
+
+### 💬 Reddit Text Frequency Analysis
+NLP project for sentiment analysis, word frequency, and trend visualization.
+
+### 🦠 COVID Live Detection
+Real-time COVID data analysis and visualization.
+
+## 📜 Certifications
+
+🏆 **PySpark Value-Added Course**  
+Imarticus Learning Pvt Ltd (in association with Velammal Engineering College)  
+📅 July 2025  
+Skills: PySpark, Apache Spark, Data Processing, Big Data Analytics  
+
+---
+
+🏆 **NPTEL Elite Certification – Cloud Computing**  
+IIT Kharagpur (SWAYAM)  
+📅 April 2026  
+Credential ID: NPTEL26CS55S985709529  
+Score: 70% (Elite)  
+Skills: Cloud Computing, Distributed Systems, SaaS, PaaS, IaaS  
+
+---
+
+🏆 **Python 101 for Data Science**  
+IBM Cognitive Class  
+📅 July 2025  
+Skills: Python, Data Science, Data Handling, Analytics  
+
+---
+
+🏆 **Getting Started with Microsoft Excel (Project Certificate)**  
+Coursera Project Network  
+📅 July 2025  
+Skills: Excel, Data Entry, Spreadsheet Management  
+
+---
+
+🏆 **Introduction to Career Skills in Data Analytics**  
+LinkedIn Learning  
+📅 Feb 2025  
+Skills: Data Analytics, Career Foundations  
+
+## 🌱 Currently Learning
+
+- 📊 Advanced SQL
+- ⚡ PySpark Optimization
+- 🤖 Large Language Models (LLMs)
+
+## 🎯 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Business Intelligence
+- Natural Language Processing
+- Computer Vision
+- Software Development
+
+  ## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/monisha-anbazhagan-900530292">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:monishamoni1801@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
