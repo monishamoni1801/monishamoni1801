@@ -76,14 +76,6 @@
   <img src="https://streak-stats.demolab.com?user=monishamoni1801&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monishamoni1801&show_icons=true&theme=tokyonight" />
-</p>
-
 
 ## 📜 Certifications
 
