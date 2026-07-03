@@ -1,7 +1,9 @@
-## Hi there 👋
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20👋%20I'm%20Monisha&fontColor=FFFFFF&fontSize=55&fontAlignY=38&animation=fadeIn&rotate=0&strokeWidth=0&desc=Python%20•%20SQL%20•%20Power%20BI%20•%20ML&descSize=24&descAlignY=58" width="100%" />
 </p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&center=true&width=700&height=60&lines=AI+%26+Data+Science+Undergraduate;Python+Developer;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Power+BI+%E2%80%A2+PySpark;Currently+Learning+Advanced+SQL" alt="Typing SVG" /></a>
 <!--
 **monishamoni1801/monishamoni1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
