@@ -78,8 +78,10 @@
 
 ## 🏆 GitHub Trophies
 
+## 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monishamoni1801&theme=algolia&no-frame=true&row=2&column=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monishamoni1801&show_icons=true&theme=tokyonight" />
 </p>
 
 
