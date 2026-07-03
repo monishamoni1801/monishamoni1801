@@ -5,10 +5,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&center=true&width=700&height=60&lines=AI+%26+Data+Science+Undergraduate;Python+Developer;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Power+BI+%E2%80%A2+PySpark;Currently+Learning+Advanced+SQL" alt="Typing SVG" /></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=monishamoni1801&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/monishamoni1801?label=Followers&style=for-the-badge&color=blue" />
-</p>
 
 ## 👩‍💻 About Me
 
@@ -83,29 +79,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monishamoni1801&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=monishamoni1801&theme=algolia&no-frame=true&row=2&column=3" />
 </p>
 
-
-## 🚀 Featured Projects
-
-### 📊 Customer Churn Prediction using PySpark
-End-to-end churn prediction pipeline with preprocessing, feature engineering, ML models, and evaluation.
-
-### 📈 HR Analytics Dashboard
-Interactive Power BI dashboard for employee attrition and workforce insights.
-
-### 🤖 Agile Compliance Assessment Tool
-Web application to assess Agile maturity through automated self-evaluation.
-
-### 🩺 DiabetesGuard
-Machine learning-based diabetes prediction with user health tracking.
-
-### 💬 Reddit Text Frequency Analysis
-NLP project for sentiment analysis, word frequency, and trend visualization.
-
-### 🦠 COVID Live Detection
-Real-time COVID data analysis and visualization.
 
 ## 📜 Certifications
 
@@ -156,7 +132,6 @@ Skills: Data Analytics, Career Foundations
 - Machine Learning
 - Data Analytics
 - Business Intelligence
-- Natural Language Processing
 - Computer Vision
 - Software Development
 
